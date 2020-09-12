@@ -1,4 +1,4 @@
-# Initialize array
+#   Initialize array
 arr = [25, 11, 7, 75, 56];
 
 # Initialize max with first element of array.
