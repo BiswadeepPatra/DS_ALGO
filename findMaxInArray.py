@@ -10,4 +10,4 @@ for i in range(0, len(arr)):
     if (arr[i] > max):
         max = arr[i];
 
-print("Largest element present in given array: " + str(max));
+print("Largest element present in given array=: " + str(max));
